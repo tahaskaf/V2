@@ -10,4 +10,4 @@ Versión 2 verificada por Alex
 
 Versión 2 comunicada por Anna
 
-URL del video: XXXXX
+URL del video: https://drive.google.com/file/d/1aTQS_Gqa-peKnKLmYFZVznNrV3_8xj_t/view?usp=sharing
