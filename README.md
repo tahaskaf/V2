@@ -5,9 +5,6 @@ Hicimos diferentes cambios en la versión 2, aplicamos la L2 y la L3, cambiamos 
 
 
 Versión 2 generada por Taha
-
 Versión 2 verificada por Alex
-
 Versión 2 comunicada por Anna
-
 URL del video: XXXXX
